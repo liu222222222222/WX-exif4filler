@@ -17,15 +17,20 @@
 双击 photo_date_filler.py → 选择照片目录 → 预览 → 确认写入
 所有缺失日期瞬间复活！
 
-## 【一条龙照片急救计划】
-！！微信照片导出的终结者！！
-1️⃣ WX-bat2jpg把微信加密 .dat 秒变高清 .jpg  
-https://github.com/liu222222222222/WX-bat2jpg
-2️⃣ WX-sort4pic  
-按分辨率 / 重复图 / 缩略图一键分拣
-https://github.com/liu222222222222/WX-sort4pic  
-3️⃣ photo-date-filler 把缺失的 1970-01-01 修正为真实拍摄时间（00:00 / 30:00 交替标记）
-https://github.com/liu222222222222/WX-exif4filler/
+## 🆘【一条龙照片急救计划】  
+**微信照片导出的终结者！**
+
+1️⃣ **WX-bat2jpg**  
+把微信加密 `.dat` 秒变高清 `.jpg`  
+🔗 https://github.com/liu222222222222/WX-bat2jpg  
+
+2️⃣ **WX-sort4pic**  
+按分辨率 / 重复图 / 缩略图一键分拣  
+🔗 https://github.com/liu222222222222/WX-sort4pic  
+
+3️⃣ **photo-date-filler**  
+把缺失的 `1970-01-01` 修正为真实拍摄时间（`00:00` / `30:00` 交替标记）  
+🔗 https://github.com/liu222222222222/WX-exif4filler/
 
 
 ## ⚖️ 许可证
@@ -35,6 +40,7 @@ MIT —— 想干啥干啥，别干坏事就行。
 仅供学习交流，使用请确保已获图片所有者授权。
 任何翻车（数据丢失、感情破裂、硬盘爆炸）作者概不负责。
 90 % 代码由 KIMI K2 友情代笔，KIMI 永远的神！
+
 
 
 
